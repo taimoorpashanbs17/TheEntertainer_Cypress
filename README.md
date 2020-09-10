@@ -9,4 +9,4 @@ In Order to Run these scripts on command line, clone this directory:
 
 And then run the following command in Bash Script:
 
-npx cypress run
+`npx cypress run`
