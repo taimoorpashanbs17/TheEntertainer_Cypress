@@ -1,0 +1,17 @@
+{
+  "name": "cypress_basic_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taimoor Pasha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  },
+  "dependencies": {
+    "sinon": "^9.0.3"
+  }
+}
